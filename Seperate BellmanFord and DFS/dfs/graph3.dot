@@ -1,0 +1,7 @@
+ graph G
+{
+{a--b[label="ab" weight=70]};
+{b--c[label="bc" weight=70]};
+{c--d[label="cd" weight=50]};
+{d--a[label="da" weight=30]};
+}

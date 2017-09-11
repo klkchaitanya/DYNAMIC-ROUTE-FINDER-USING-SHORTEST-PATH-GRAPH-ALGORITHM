@@ -1,0 +1,33 @@
+graph xmpl
+{
+
+{HM1--HM2[label="HM1HM2" weight=70 color="red"]};
+{MM1--MM2[label="MM1MM2" weight=50 color="orange"]};
+{MM3--MM4[label="MM3MM4" weight=50 color="orange"]};
+{MM4--MM5[label="MM4MM5" weight=50 color="orange"]};
+{HM2--ML1[label="HM2ML1" weight=50 color="orange"]};
+{ML1--ML2[label="ML1ML2" weight=50 color="orange"]};
+{ML2--ML3[label="ML2ML3" weight=50 color="orange"]};
+{ML3--ML4[label="ML3ML4" weight=50 color="orange"]};
+{ML4--MM2[label="ML4MM2" weight=50 color="orange"]};
+{MM2--MM4[label="MM2MM4" weight=50 color="orange"]};
+{ML1--LL1[label="ML1LL1" weight=30 color="green"]};
+{LL1--LL2[label="LL1LL2" weight=30 color="green"]};
+{LL2--LL3[label="LL2LL3" weight=30 color="green"]};
+{LL3--ML5[label="LL3ML5" weight=30 color="green"]};
+{ML2--LL4[label="ML2LL4" weight=30 color="green"]};
+{LL4--LL5[label="LL4LL5" weight=30 color="green"]};
+{LL5--LL6[label="LL5LL6" weight=30 color="green"]};
+{LL6--ML6[label="LL6ML6" weight=30 color="green"]};
+{ML3--LL7[label="ML3LL7" weight=30 color="green"]};
+{LL7--LL8[label="LL7LL8" weight=30 color="green"]};
+{LL8--LL9[label="LL8LL9" weight=30 color="green"]};
+{LL9--ML7[label="LL9ML7" weight=30 color="green"]};
+{LL1--LL4[label="LL1LL4" weight=30 color="green"]};
+{LL2--LL5[label="LL2LL5" weight=30 color="green"]};
+{LL3--LL6[label="LL3LL6" weight=30 color="green"]};
+{LL4--LL7[label="LL4LL7" weight=30 color="green"]};
+{LL5--LL8[label="LL5LL8" weight=30 color="green"]};
+{LL6--LL9[label="LL6LL9" weight=30 color="green"]};
+{LL7--LL10[label="LL7LL10" weight=30 color="green"]};
+}
